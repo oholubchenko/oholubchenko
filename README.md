@@ -17,6 +17,5 @@ You can download my CV [from my Google Drive.](https://docs.google.com/document/
 | **API Testing** | RESTful API, Postman, Swagger |
 | **Database** | MySQL, Oracle |
 | **Mobile Testing** | Android Studio, ADB, XCode |
-| **Defect/Test Management** | Jira, Xray, TestRail, Confluence, Slack, Teams, Zoom |
-| **Project Management** |
+| **Defect/Test Management/PM** | Jira, Xray, TestRail, Confluence, Slack, Teams, Zoom |
 
