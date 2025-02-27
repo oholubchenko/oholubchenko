@@ -8,13 +8,15 @@ You can download my CV [from my Google Drive.](https://docs.google.com/document/
 
 ## TECHNICAL SKILLS
 
- Platforms			    : Windows, MacOS, iOS, Android, UNIX/Linux
- Web Technologies		    |: HTML, CSS
- | Web Testing Tools	    |: Chrome DevTools, Charles, Fiddler 
- | Test Automation		    |: Selenium WebDriver, IntelliJ, Cucumber, Git, GitHub, Jenkins
- | API Testing			    |: RESTful API, Postman, Swagger
- | Database		            |: MySQL, Oracle
- | Mobile Testing		    |: Android Studio, ADB, XCode
- | Defect/Test Management	|: Jira, Xray, TestRail
- | /Project Management		 Confluence, Slack, Teams, Zoom
+| Category               | Tools & Technologies                          |
+|----------------------|--------------------------------|
+| **Platforms**        | Windows, MacOS, iOS, Android, UNIX/Linux |
+| **Web Technologies** | HTML, CSS |
+| **Web Testing Tools** | Chrome DevTools, Charles, Fiddler |
+| **Test Automation** | Selenium WebDriver, IntelliJ, Cucumber, Git, GitHub, Jenkins |
+| **API Testing** | RESTful API, Postman, Swagger |
+| **Database** | MySQL, Oracle |
+| **Mobile Testing** | Android Studio, ADB, XCode |
+| **Defect/Test Management** | Jira, Xray, TestRail |
+| **Project Management** | Confluence, Slack, Teams, Zoom |
 
