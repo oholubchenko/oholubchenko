@@ -19,3 +19,8 @@ You can download my CV [from my Google Drive.](https://docs.google.com/document/
 | **Mobile Testing** | Android Studio, ADB, XCode |
 | **Defect/Test Management/PM** | Jira, Xray, TestRail, Confluence, Slack, Teams, Zoom |
 
+## Sample Works
+Here are some examples of my QA documentation and test artifacts:
+
+📄 Test Plan for an E-commerce Application – [Link to file](https://docs.google.com/document/d/1UY8v_PR0qJHaL9a0WxzuiLByzOvIAqwDER9wtXYG8t0/edit?usp=drive_link)
+🐞 Bug Reports – [Link to file](https://docs.google.com/spreadsheets/d/1HNJ0FBn48speFz1ybGMAnThXYvqYT7_aLcIOwP90rOQ/edit?usp=drive_link)
